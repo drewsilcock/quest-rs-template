@@ -5,7 +5,9 @@
 
 This binary project demonstrates a simple quantum circuit built using the [Quantum Exact Simulation Toolkit (QuEST)]() via the [Rust wrapper quest-rs](https://github.com/drewsilcock/quest-rs).
 
-To use this as a starter project, click the [Use this template](https://github.com/drewsilcock/quest-rs-template/generate) button in the GitHub interface.
+To use this as a starter project, click this button:
+
+![![Use Template](https://img.shields.io/badge/Starter%20Template-Use-orange.svg)](https://github.com/drewsilcock/quest-rs-template/generate)
 
 For more information on how to use the quest-rs wrapper, see the docs at:
 
