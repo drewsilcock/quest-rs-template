@@ -7,7 +7,7 @@ This binary project demonstrates a simple quantum circuit built using the [Quant
 
 To use this as a starter project, click this button:
 
-![![Use Template](https://img.shields.io/badge/Starter%20Template-Use-orange.svg)](https://github.com/drewsilcock/quest-rs-template/generate)
+[![Use Template](https://img.shields.io/badge/Starter%20Template-Use-orange.svg)](https://github.com/drewsilcock/quest-rs-template/generate)
 
 For more information on how to use the quest-rs wrapper, see the docs at:
 
